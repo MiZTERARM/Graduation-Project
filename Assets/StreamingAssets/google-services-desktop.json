@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1059820882213",
+    "firebase_url": "https://fir-hi-sensei-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-hi-sensei",
+    "storage_bucket": "fir-hi-sensei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059820882213:android:4a8a58b85a93fb3b5332cc",
+        "android_client_info": {
+          "package_name": "com.thehag.hisensei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059820882213-03nqdntqal50tlb7qnnevc53un80cpm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLagfLkzQjbDGJ5n6wGH4yibSpN89F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059820882213-03nqdntqal50tlb7qnnevc53un80cpm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
