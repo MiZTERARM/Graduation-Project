@@ -1,5 +1,5 @@
 # Graduation-Project : Hi-Sensei
-<img src="picTemp/icon.png" style="width: 20%;">
+<img src="picTemp/posterIT61-BU19.png" style="width: 100%;">
 <b>Project name</b> <br>&nbsp&nbsp&nbsp&nbsp&nbsp Hi-Sensei เกมพัฒนาทักษะด้านคำศัพท์ภาษาญี่ปุ่นไฮ-เซนเซย์ (Hi-Sensei)<br>
 <b>Project description</b> <br>&nbsp&nbsp&nbsp&nbsp&nbspHi-Sensei เป็นเกมเพื่อพัฒนาทักษะด้านคำศัพท์ภาษาญี่ปุ่น และการวางแผนจัดการ โดยใช้เกมเป็นสื่อกลางในการพัฒนาความรู้และทักษะด้านภาษาญี่ปุ่น<br>
 <b>Team member</b>
@@ -37,3 +37,6 @@
 <img src="picTemp/3.jpg" style="width: 40%;"> <img src="picTemp/4.jpg" style="width: 40%;">
 <img src="picTemp/6.jpg" style="width: 40%;"> <img src="picTemp/9.jpg" style="width: 40%;">
 <img src="picTemp/7.jpg" style="width: 40%;"> <img src="picTemp/8.jpg" style="width: 40%;">
+
+## License
+Power by HAG Team @Student of SCHOOL OF INFORMATION TECHNOLOGY, King Mongkut's University of Technology Thonburi
